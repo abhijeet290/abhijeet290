@@ -1,28 +1,39 @@
-## Hello, World! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abhijeet Singh
+======================================================================================================================================
 
-🚀 Welcome to my GitHub profile! I'm Abhijeet Singh, a passionate MERN stack developer with a strong penchant for crafting immersive digital experiences. My journey in the world of coding is a tale of turning coffee into code and ideas into elegant solutions.
+Frontend developer
+------------------
 
-### 💻 What I Do
+I am a frontend developer who loves react
 
-🌐 As a MERN stack enthusiast, I specialize in building full-stack web applications that seamlessly blend the power of MongoDB, Express, React, and Node.js. From conceptualization to deployment, I thrive on creating responsive and dynamic user interfaces that leave a lasting impact.
+* 🌍  I'm based in New Delhi
+* ✉️  You can contact me at [as2903562@gmail.com](mailto:as2903562@gmail.com)
+* 🧠  I'm learning NextJS
 
-### 🛠️ Tech Toolbox
+### Skills
 
-🔧 My tools of choice include:
-- Frontend: React.js for creating intuitive user interfaces.
-- Backend: Node.js and Express for building robust server-side logic.
-- Database: MongoDB for flexible and scalable data management.
-- Plus, a sprinkle of HTML, CSS, and a touch of JavaScript magic.
 
-### 🌱 Always Learning
+<p align="left">
+ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON
+</p>
 
-📚 Technology is an ever-evolving realm, and I'm on a perpetual journey of learning. Whether it's staying up-to-date with the latest React.js features or diving into advanced backend techniques, I believe that constant learning is key to unlocking innovation.
 
-### 🤝 Let's Connect
+### Socials
 
-📬 I'm open to collaboration, coding discussions, and connecting with fellow developers. If you're passionate about MERN stack, frontend development, or just want to geek out over code, feel free to reach out!
+<p align="left"> <a href="https://www.github.com/abhijeet290" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-Let's build the future together, one line of code at a time. 🌟
+### Badges
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yourusername/) and let's code some magic! ✨
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/abhijeet290"><img src="https://github-readme-stats.vercel.app/api?username=abhijeet290&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="abhijeet290's GitHub stats" /></a>
+
+<a href="http://www.github.com/abhijeet290"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeet290&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/abhijeet290"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhijeet290&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/abhijeet290" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhijeet290&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
